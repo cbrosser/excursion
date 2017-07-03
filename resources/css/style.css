@@ -1,0 +1,14 @@
+html {
+  background: black;
+  text-align: center;
+}
+h1,
+h2 {
+  color: white;
+}
+p {
+  color: gray;
+}
+a {
+  color: aquamarine;
+}
